@@ -6,7 +6,7 @@ Problem statement:
 
 As a business manager we have to find out the weak areas where we can work to make more profit. Also, what all business problems can be derived by exploring the data.
 
-I  completed this task with the help of python libraries i.e. matplotlib, plotly, plotnine and seaborn.
+I  completed this task with the help of python libraries i.e. matplotlib, numpy, plotnine and seaborn.
 
 The following steps are:
 
